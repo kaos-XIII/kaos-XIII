@@ -2,7 +2,7 @@
 
 ## Github Overview
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=kaos-XIII&show_icons=true&hide_border=true&theme=dark"/>
+<img width="50%" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaos-XIII&show_icons=true&hide_border=true&theme=dark"/>
 
 <img width="30.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaos-XIII&show_icons=true&hide_border=true&theme=dark"/>
 
