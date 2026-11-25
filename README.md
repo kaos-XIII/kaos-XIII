@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 🔧 Firmware en C para dsPIC33 y QMK, control de motores BLDC/PMSM, diseño de PCB en Altium y apps BLE en iOS
+- 🔧 Firmware en C para dsPIC33 y QMK, control de motores BLDC/PMSM, diseño de PCB en Altium
 - 🤖 Flujos de desarrollo asistidos por IA: extensiones y herramientas propias para agentes de código (Pi, llama.cpp)
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/alejandro-veiga-l%C3%B3pez-554610100/)
 - 🌱 Aprendiendo: _(rellena)_
