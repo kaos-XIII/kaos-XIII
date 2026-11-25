@@ -5,8 +5,8 @@
 ## Sobre mí
 
 - 🔧 Firmware embebido, control de motores y electrónica (PCB en Altium)
-- 🌱 Aprendiendo: _(rellena)_
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/alejandro-veiga-l%C3%B3pez-554610100/)
+- 🌱 Aprendiendo: _(rellena)_
 
 ## Stack
 
