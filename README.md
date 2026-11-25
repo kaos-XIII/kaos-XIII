@@ -1,22 +1,24 @@
-### Hi there 👋
+# Hola, soy Alex Veiga 👋
 
-## Github Overview
+**Desarrollador de sistemas embebidos** · Barcelona, España
 
-<img width="50%" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaos-XIII&show_icons=true&hide_border=true&theme=dark"/>
+## Sobre mí
 
-<img width="30.5%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaos-XIII&show_icons=true&hide_border=true&theme=dark"/>
+- 🔧 Firmware embebido, control de motores y electrónica (PCB en Altium)
+- 🌱 Aprendiendo: _(rellena)_
+- 📫 Contacto: _(rellena: email o LinkedIn)_
 
-<!--
-**kaos-XIII/kaos-XIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
 
-Here are some ideas to get you started:
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+- [TestFlexPCB](https://github.com/kaos-XIII/TestFlexPCB) — prueba de PCB flexible en Altium
+- [AngularApp](https://github.com/kaos-XIII/AngularApp) — Angular con ASP.NET
+- [UvaJutgeOnline](https://github.com/kaos-XIII/UvaJutgeOnline) — problemas de jueces online en C++
